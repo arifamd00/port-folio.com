@@ -1,3 +1,7 @@
+body{
+background-color:rgba(0,0,255,0.1)
+}
+
 input:focus{
 background-color:black;
 color:white;
@@ -6,4 +10,5 @@ width:px;
 form{
 max-width:1000px;
 border:2px solid dodgerblue;
+margin-top:50px;
 }

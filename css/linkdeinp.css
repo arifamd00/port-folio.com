@@ -1,3 +1,7 @@
+body{
+background-color:rgba(0,0,255,0.1)
+}
+
 div.a{
 position:relative;
 margin-left:25%;
